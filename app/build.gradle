@@ -37,4 +37,5 @@ dependencies {
     implementation 'com.github.JastAir:Android-BackgroundChart:1.0'
     implementation 'androidx.cardview:cardview:1.0.0'
 
+
 }

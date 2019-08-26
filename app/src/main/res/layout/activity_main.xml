@@ -228,7 +228,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/cateat"
+                        android:src="@drawable/catjump"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -267,7 +267,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/catrun"
+                        android:src="@drawable/catplay"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -305,7 +305,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/catanger"
+                        android:src="@drawable/catsleep"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
@@ -343,7 +343,7 @@
                     android:layout_height="wrap_content">
 
                     <ImageView
-                        android:src="@drawable/catanger"
+                        android:src="@drawable/catsit"
                         android:layout_gravity="center_horizontal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
