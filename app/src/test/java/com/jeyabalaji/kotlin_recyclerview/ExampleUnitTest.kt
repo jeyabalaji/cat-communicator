@@ -1,4 +1,4 @@
-package com.jeyabalaji.cat_communicator
+package com.jeyabalaji.kotlin_recyclerview
 
 import org.junit.Test
 

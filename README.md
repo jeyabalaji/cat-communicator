@@ -1,1 +1,2 @@
-# cat-communicator
+# kotlinrecyclerview
+Android RecyclerView implemented in Kotlin
